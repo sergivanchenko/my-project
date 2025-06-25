@@ -13,3 +13,4 @@ This project is for learning Git and GitHub.
 - second-subfolder/
   - fifth-file.txt
   - fourth-file.txt
+- new-file.txt
